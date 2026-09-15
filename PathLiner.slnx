@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PathLiner.Console/PathLiner.Console.csproj" />
+    <Project Path="src/PathLiner/PathLiner.csproj" />
+  </Folder>
+</Solution>
